@@ -2,7 +2,7 @@
 
 https://github.com/08Alan/InsiderDevTour18-Office
 
-### 建立一個Teams Tab App
+### D建立一個Teams Tab App
 開啟Teams 開發人員權限
 https://docs.microsoft.com/zh-tw/microsoftteams/platform/get-started/get-started-tenant
 
