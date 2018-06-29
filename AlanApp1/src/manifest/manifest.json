@@ -1,0 +1,46 @@
+{
+  "$schema": "https://statics.teams.microsoft.com/sdk/v1.2/manifest/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.0",
+  "id": "523af8e4-5030-f3b9-3a4d-9e08e31c5448",
+  "version": "0.0.1",
+  "packageName": "io.ngrok.tbd",
+  "developer": {
+    "name": "&#39;Alan.Liu&#39;",
+    "websiteUrl": "https://7531ec76.ngrok.io",
+    "privacyUrl": "https://7531ec76.ngrok.io/privacy.html",
+    "termsOfUseUrl": "https://7531ec76.ngrok.io/tou.html"
+  },
+  "name": {
+    "short": "AlanApp1",
+    "full": "AlanApp1"
+  },
+  "description": {
+    "short": "TODO: add short description here",
+    "full": "TODO: add full description here"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [
+    {
+      "configurationUrl": "https://7531ec76.ngrok.io/alanApp1TabConfig.html",
+      "canUpdateConfiguration": true,
+      "scopes": [
+        "team"
+      ]
+    }
+  ],
+  "staticTabs": [],
+  "bots": [],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "7531ec76.ngrok.io"
+  ]
+}
